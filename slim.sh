@@ -3,7 +3,7 @@ set -euo pipefail
 
 # --- CONFIG ---
 SOURCE_REPO="https://github.com/soto-project/soto.git"
-TARGET_REPO="https://github.com/ltetzlaff/soto-slim.git"
+TARGET_REPO="https://github.com/ltetzlaff/soto.git"
 START_COMMIT="1f7fd0f"
 TEMP_DIR="soto-temp"
 CLEAN_DIR="soto-slim"

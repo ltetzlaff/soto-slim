@@ -5,7 +5,7 @@ This repo is just a shallow clone of https://github.com/soto-project/soto starti
 Check out `slim.sh` to see how it was created.
 
 ```swift
-.package(url: "https://github.com/ltetzlaff/soto-slim.git", revision: "069266a"),
+.package(url: "https://github.com/ltetzlaff/soto.git", revision: "069266a"),
 ```
 
 # Soto for AWS
