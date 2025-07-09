@@ -1,3 +1,13 @@
+# Soto-Slim
+
+This repo is just a shallow clone of https://github.com/soto-project/soto starting from `1f7fd0f` to reduce the size of the repo from ~400 MB to ~15 MB for faster (implicitly full-history) clones through SPM.
+
+Check out `slim.sh` to see how it was created.
+
+```swift
+.package(url: "https://github.com/ltetzlaff/soto-slim.git", revision: "069266a"),
+```
+
 # Soto for AWS
 
 [![sswg:graduated|104x20](https://img.shields.io/badge/sswg-graduated-blue.svg)](https://www.swift.org/sswg/incubation-process.html#graduation-requirements)
